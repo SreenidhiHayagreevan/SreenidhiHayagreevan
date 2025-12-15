@@ -27,7 +27,7 @@ Motivated and detail-oriented Master’s student in Data Analytics at SJSU with 
 - Designed and implemented a multi-layer guardrail framework for LLM that detects and flags LLM hallucinations.
 - Built fully automated data pipeline to ingest, preprocess ~700K+ samples across 7 datasets (focused on 7 domains).
 - Achieved strong performance on reliability metrics - ROC-AUC ≥ 0.95 for toxicity, hallucination ,and gaps on gender bias.
-​- Built an interactive Streamlit UI to demo the guardrail pipeline, visualizing safety checks, hallucination flags.
+- Built an interactive Streamlit UI to demo the guardrail pipeline, visualizing safety checks, hallucination flags.
 
 ### 🗣️ [Named Entity Recognition for Vehicle Attribute Extraction](https://github.com/SreenidhiHayagreevan/Natural-Language-Processing)
 - Developed a NER system on the FindVehicle dataset (~42K descriptions, 1.36M tokens, 21 entity classes) to extract vehicle color, brand, model, type, location,  and velocity from natural language descriptions for traffic monitoring​
