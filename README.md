@@ -29,6 +29,17 @@ Motivated and detail-oriented Master’s student in Data Analytics at SJSU with 
 - **Productivity Tools:** Microsoft Office Suite (Word, Excel, PowerPoint, Outlook), Google Workspace (Docs, Sheets, Slides, Drive)  
 
 ## 🌟 Featured Projects
+###🚧 [GuardRail for LLM](https://github.com/SreenidhiHayagreevan/GuardRail_For_LLM)
+- Designed and implemented a multi-layer guardrail framework for LLM that detects and flags LLM hallucinations.
+- Built fully automated data pipeline to ingest, preprocess ~700K+ samples across 7 datasets (focused on 7 domains).
+- Achieved strong performance on reliability metrics - ROC-AUC ≥ 0.95 for toxicity, hallucination ,and gaps on gender bias.
+​- Built an interactive Streamlit UI to demo the guardrail pipeline, visualizing safety checks, hallucination flags.
+
+###🗣️ [Named Entity Recognition for Vehicle Attribute Extraction](https://github.com/SreenidhiHayagreevan/Natural-Language-Processing)
+- Developed a NER system on the FindVehicle dataset (~42K descriptions, 1.36M tokens, 21 entity classes) to extract vehicle color, brand, model, type, location,  and velocity from natural language descriptions for traffic monitoring​
+- Implemented a full preprocessing pipeline converting CoNLL-style annotations to tabular format, applying BIOE tagging, and validating token label alignment for fine-grained vehicle attributes.
+- Designed and trained multiple sequence models (RNN, LSTM, BiLSTM) and transformer-based models (eg: BERT, etc.).
+- Fine-tuned RoBERTa-base with AdamW and cross-entropy loss to achieve an F1 score of ~0.96 and accuracy ~0.98, outperforming all other baselines and handling overlapping entities and multi-word vehicle attributes robustly.
 
 ### 🔐 [Job Scam Detection in Gmail](https://github.com/SreenidhiHayagreevan/Job-Offer-Scam-Detection)  
 Developed a machine learning system to detect fraudulent job-related emails using structured and unstructured data.  
