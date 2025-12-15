@@ -14,19 +14,13 @@ Motivated and detail-oriented Master’s student in Data Analytics at SJSU with 
 ---
 
 ## 💼 Technical Skills
-
-- **Languages & Tools:** Python, SQL, R, Shell Scripting  
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn  
-- **Database & Cloud:** MySQL, PostgreSQL, MongoDB, AWS (Amplify, EC2), Snowflake  
-- **Other:** Git, Jupyter Notebook, Tableau, Power BI, Node.js, React, Docker
-- **Programming:** Python, SQL, R, HTML, CSS, JavaScript, Node.js
-- **Statistical skills and ML Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, Regression Analysis, Hypothesis Testing, Predictive Modeling, NLP (BERT, TF-IDF, NLTK), Time-Series Forecasting (SARIMA, LSTM), Recommendation Systems (Collaborative Filtering, Content-Based Filtering)
-- **Data Visualization & Business Intelligence Tools:** PowerBI, Tableau, Preset, Superset,R Studio,Matplotlib, Seaborn, Streamlit
-- **Big DataTools:** Snowflake, Airflow, MySQL, AWS (Amplify, EC2), Google Cloud, Microsoft Azure, DBT, Apache Spark, Hadoop, MongoDB Atlas
+- **Programming & Containers:** Python, C, C++, SQL, R, HTML, CSS, JavaScript, Node.js, React, Docker, Kubernetes
+- **ML & Statistical Modeling:** Pandas, Scikit-learn, TensorFlow, PyTorch, CUDA, RNN, LSTM, BiLSTM, Transformers (BERT, RoBERTa, ELECTRA), Classification, Regression, Clustering, Word Tokenization, Embeddings, NER,RAG, Reasoning LLMs
+- **AI Tools:** Hugging Face Transformers & Datasets, LangChain, OpenAI API, LLMOps (Weights & Biases, MLflow), Semantic Search, Pinecone, ChromaDB, Prompt Engineering, GPU Acceleration, Parallel Processing
+- **Data Visualization & Business Intelligence:** Power BI, Tableau, Preset, R Studio, Matplotlib, Seaborn, Streamlit
+- **Big Data:** Snowflake,Apache Spark, Airflow,AWS(Amplify, S3),Google Cloud,DBT,Google Analytics
 - **SDLC Tool:** JIRA, Confluence, Trello, GitHub, Google Colab,Lucidchart
-- **Containers & Deployment Tool:** Docker, Kubernetes
-- **SEO and CMS Tools:** Screaming Frog, Moz, SEMRush, Keyword planner, HubSpot, Google Analytics, Search Console,Canvas, WordPress
-- **Productivity Tools:** Microsoft Office Suite (Word, Excel, PowerPoint, Outlook), Google Workspace (Docs, Sheets, Slides, Drive)  
+- **Productivity Tools:** Microsoft Office Suite (Word, Excel, PowerPoint, Outlook), Google Workspace (Docs, Sheets, Slides, Drive)
 
 ## 🌟 Featured Projects
 ### 🚧 [GuardRail for LLM](https://github.com/SreenidhiHayagreevan/GuardRail_For_LLM)
