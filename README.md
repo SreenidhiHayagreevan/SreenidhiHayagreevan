@@ -25,7 +25,7 @@ Motivated and detail-oriented Master’s student in Data Analytics at SJSU with 
 ## 🌟 Featured Projects
 ### 🚧 [GuardRail for LLM](https://github.com/SreenidhiHayagreevan/GuardRail_For_LLM)
 - Designed and implemented a multi-layer guardrail framework for LLM that detects and flags LLM hallucinations.
-- Built fully automated data pipeline to ingest, preprocess ~700K+ samples across 7 datasets (focused on 7 domains).
+- Built fully automated ETL data pipeline to ingest, preprocess ~700K+ samples across 7 datasets (focused on 7 domains).
 - Achieved strong performance on reliability metrics - ROC-AUC ≥ 0.95 for toxicity, hallucination ,and gaps on gender bias.
 - Built an interactive Streamlit UI to demo the guardrail pipeline, visualizing safety checks, hallucination flags.
 
@@ -43,14 +43,14 @@ Developed a machine learning system to detect fraudulent job-related emails usin
 - Designed a complete pipeline from data collection to deployment.
 
 ### 🎬 [Content and Behavior-Aware Movie Recommendation System](https://github.com/SreenidhiHayagreevan/Movie-Recomendation)  
-Built a real-time hybrid movie recommendation engine using Node.js, Python, and React.  
+- Built a real-time hybrid movie recommendation engine using Node.js, Python, and React.  
 - Created NLP-based metadata extractor using subtitles to infer genres.  
 - Tracked user behavior (watch time, replays, skips) for personalized recommendations.  
 - Achieved over **80% accuracy** with sub-100ms latency using modular distributed design.  
 - Deployed full-stack system with cloud-hosted MongoDB Atlas and AWS Amplify.
 
 ### 🏥 [Big Data-Driven Health Risk Assessment](https://github.com/SreenidhiHayagreevan/bigdata-health-management-system)  
-Analyzed 141M+ health records from wearable devices using PySpark and Hadoop.  
+- Analyzed 141M+ health records from wearable devices using PySpark and Hadoop.  
 - Engineered health risk features, handled missing data, and clustered users into risk tiers.  
 - Built a **linear regression model** with **0.91 R² accuracy** for real-time scoring.  
 - Developed interactive Streamlit dashboards for risk visualization.
@@ -61,7 +61,7 @@ Built an automated stock price forecasting pipeline with Alpha Vantage API, Airf
 - Engineered technical indicators using dbt and visualized results in Preset dashboards.
 
 ### 🛒 [Retail Demand Forecasting System](https://github.com/SreenidhiHayagreevan/Retail-Demand-Forecasting)  
-Forecasted retail inventory demand using SARIMA, XGBoost, and LSTM.  
+- Forecasted retail inventory demand using SARIMA, XGBoost, and LSTM.  
 - Integrated weather and economic data; automated ETL with Airflow.  
 - Achieved **MAPE < 15%**, with a **20% reduction in inventory costs** and **50% fewer stockouts**.  
 - Visualized performance with Superset dashboards connected to Snowflake.
