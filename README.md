@@ -56,7 +56,7 @@ Developed a machine learning system to detect fraudulent job-related emails usin
 - Developed interactive Streamlit dashboards for risk visualization.
 
 ### 📈 [Stock Market Analytics and Price Forecasting](https://github.com/SreenidhiHayagreevan/data226-lab2)  
-Built an automated stock price forecasting pipeline with Alpha Vantage API, Airflow, and Snowflake.  
+- Built an automated stock price forecasting pipeline with Alpha Vantage API, Airflow, and Snowflake.  
 - Predicted stock prices for Netflix and Intuitive Surgical with **96–98% accuracy**.  
 - Engineered technical indicators using dbt and visualized results in Preset dashboards.
 
