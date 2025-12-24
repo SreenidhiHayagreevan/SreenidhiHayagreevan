@@ -23,6 +23,12 @@ Motivated and detail-oriented Master’s student in Data Analytics at SJSU with 
 - **Productivity Tools:** Microsoft Office Suite (Word, Excel, PowerPoint, Outlook), Google Workspace (Docs, Sheets, Slides, Drive)
 
 ## 🌟 Featured Projects
+### 😊 [Emotion‑Conditioned Text‑to‑Speech using Tacotron2 & HiFi‑GAN](https://github.com/SreenidhiHayagreevan/Text-to-speech-using-GenAI)
+- Built a two‑stage text‑to‑speech system using Tacotron2 for text→mel and HiFi‑GAN as the neural vocoder on LJSpeech.​
+- Implemented emotion‑conditioned Tacotron2 by fusing text and emotion embeddings (e.g., amused, angry, disgusted) in the encoder.​
+- Pretrained and fine‑tuned HiFi‑GAN on Tacotron2‑generated mels to handle domain shift and improve audio fidelity.​
+- Evaluated quality with both automatic metrics (MOS, WER) with MOS of 3.39 (UTMOSv2) and 10.75% WER on held‑out samples, surpassing Griffin‑Lim baselines.​ - Also took multiple human listened feedback to validate perceptual improvements.
+  
 ### 🚧 [GuardRail for LLM](https://github.com/SreenidhiHayagreevan/GuardRail_For_LLM)
 - Designed and implemented a multi-layer guardrail framework for LLM that detects and flags LLM hallucinations.
 - Built fully automated ETL data pipeline to ingest, preprocess ~700K+ samples across 7 datasets (focused on 7 domains).
