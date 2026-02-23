@@ -42,7 +42,7 @@ Motivated and detail-oriented Master’s student in Data Analytics at SJSU with 
 - Fine-tuned RoBERTa-base with AdamW and cross-entropy loss to achieve an F1 score of ~0.96 and accuracy ~0.98, outperforming all other baselines and handling overlapping entities and multi-word vehicle attributes robustly.
 
 ### 🔐 [Job Scam Detection in Gmail](https://github.com/SreenidhiHayagreevan/Job-Offer-Scam-Detection)  
-Developed a machine learning system to detect fraudulent job-related emails using structured and unstructured data.  
+- Developed a machine learning system to detect fraudulent job-related emails using structured and unstructured data.  
 - Engineered 15+ custom features (e.g., scam keywords, sender metadata).  
 - Compared models (Logistic Regression, SVM, XGBoost, Random Forest); final model reached **96.7% accuracy** and **73.4% F1-score**.  
 - Used SHAP for explainability and SMOTE for class imbalance.  
