@@ -4,7 +4,7 @@
 📍 San Francisco Bay Area  
 💡 Passionate about Machine Learning,Deep Learing, Gen AI Data Analytics and Warehousing
 
-📫 [LinkedIn](https://www.linkedin.com/in/sreenidhi-hayagreevan/) | 📧 sreenidhi.hayagreevan@sjsu.edu | [Portfolio](https://luxury-capybara-15f835.netlify.app)
+📫 [LinkedIn](https://www.linkedin.com/in/sreenidhi-hayagreevan/) | 📧 sreenidhi.hayagreevan@sjsu.edu | 🌐 [Portfolio](https://luxury-capybara-15f835.netlify.app)
 
 ---
 
